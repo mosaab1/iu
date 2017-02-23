@@ -1,37 +1,78 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<head>
 
-You can use the [editor on GitHub](https://github.com/mosaab1/iu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>السنة التحضيرية - قسم اللغة الانجليزية</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</head>
+<body>
+<div class='main section' id='main'><div class='widget HTML' data-version='1' id='HTML1'>
+<div class='widget-content'>
+<style type="text/css">
+table {
+font-family:"Tahoma","Simplified Arabic",sans-serif;
+font-size:3em;
+font-style:italic;
+direction:rtl;
+text-align: center;
+}
+fieldset
+{direction:rtl;}
 
-### Markdown
+h1
+{ direction:rtl; background-color:#40AAAE; color:white; text-align: center; }
+p
+{ direction:rtl;  color:red; text-align: right; }
+</style>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ <script type = "text/javascript">
+ //setTimeout('maino()', 1000);
+  // from textBoxes.html
+           
+var dio = document.createElement('dio');
+function sayHi(){
+  var txtName = document.getElementById("txtName");
+  var txtOutput = document.getElementById("txtOutput");
+  var name = txtName.value;
+  //txtOutput.value = "Hi there, " + name + "!"
+ 
+https://spreadsheets.google.com/tq?tqx=out:html&tq=&key=
 
-```markdown
-Syntax highlighted code block
+var maxia1= 'https://docs.google.com/spreadsheets/d/1QSXDgDnHHfnrEbfbM6hcgYjuuxDxekTJoFaArNpmdtM/gviz/tq?tqx=out:html&tq=select%20H%2C%20C%2C%20B%2C%20E%20WHERE%20D%3D%20'+name;
 
-# Header 1
-## Header 2
-### Header 3
+if(name>300000000&&name<400000000){
 
-- Bulleted
-- List
+window.status='java';
 
-1. Numbered
-2. List
+//elem.parentNode.removeChild(elem);
+document.body.appendChild(dio);
+dio.innerHTML = '<p align= "center"><iframe src= '+maxia1+' frameborder="0" border="0" cellspacing="0" style="border-style: none;width: 100%; height: 800px;"></iframe></p>';
 
-**Bold** and _Italic_ and `Code` text
+}
+else{
+document.body.appendChild(dio);
+dio.innerHTML = '<h2 align="center">عفوا الرقم المدخل غير صحيح</h2>';
 
-[Link](url) and ![Image](src)
-```
+} // end sayHi
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+} 
 
-### Jekyll Themes
+function goma(){
+var dio = document.createElement('dio');
+document.body.appendChild(dio);
+dio.innerHTML = '<p><img src="http://www.iu.edu.sa/images/logo.png" alt="الجامعة الاسلامية" ></p> <h1>الجامعة الاسلامية </h1><h1>السنة التحضيرية - قسم اللغة الانجليزية </h1><h1>نتيجة تسكين الطلاب المستجدين في مقررات اللغة الانجليزية للعام الجامعي 1437هـ - 1438هـ  </h1><p> محدّث باستمرار  </p><form action = ""><fieldset><label>أدخل الرقم الجامعي </label><input type = "text" id = "txtName" /><input type = "button" value = " موافق " onclick = "sayHi()"/></fieldset></form>';
+//<input type = "text" id = "txtOutput" />
+}
+function masso(){
+document.write('<div id="quiz">goma();</div>');
+} 
+goma();
+</script>
+</div>
+</div></div>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mosaab1/iu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<div><a href="http://www.iu.edu.sa/site/65">   بوابة السنة التحضيرية   </a> </div> <div><a href="https://twitter.com/PYD_IU">   تابعنا على تويتر   </a> </div> 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
